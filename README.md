@@ -1,2 +1,2 @@
-# Incovoierea
+# Forfecarea
 Laborator
